@@ -10,4 +10,4 @@ NOTE:
 For more details on access to the Ewe news dataset, please contact via the following Emails:
 
 Email : victoragbesivik@gmail.com
-Email: vkagbesi@std.uestc.edu.cn
+or : vkagbesi@std.uestc.edu.cn
